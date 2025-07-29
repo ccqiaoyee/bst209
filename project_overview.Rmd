@@ -1,0 +1,25 @@
+---
+title: "project_overview"
+author: "Qiaoyi"
+date: "2025-07-29"
+output: html_document
+---
+
+# Project Overview
+
+## Research Question 
+
+How is pre-diagnostic body mass index (BMI) change associated with mortality outcomes among CRC survivors?
+
+## Data Source
+
+NHANES
+
+## Methods
+
+Cox hazard regression models will be used to calculate the hazard ratios (HRs) and 95% confidence intervals (95% CI) of death, with time since diagnosis as the time scale. 
+
+## Expected Outcomes
+
+- Longer-term BMI changes from 10 years pre-diagnosis to 4 years pre-diagnosis will provide estimates of the impact of pre-diagnostic weight gain or loss on CRC survival. If excess weight worsens the prognosis, this weight gain would be predicted to be associated with worse survival. If possessing higher fat reserves is beneficial, weight gain during this period would be predicted to be associated with better survival. 
+- BMI changes from 4 years pre-diagnosis to last pre-diagnosis BMI is likely reflect intentional or reverse causation-related weight changes. Weight stability or moderate gain may be protective and less prone to reverse causation, while weight loss may signal preclinical disease.
